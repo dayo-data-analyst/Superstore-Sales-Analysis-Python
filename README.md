@@ -119,25 +119,32 @@ Develop customer loyalty initiatives for repeat buyers.
 Monitor underperforming products and regions to improve overall profitability.
 
 📁 Repository Structure
+
 Superstore-Sales-Analysis-Python/
 │
+
 ├── Dataset/
 │   └── superstore_sales.csv
 │
+
 ├── Notebook/
 │   └── Superstore_Sales_Analysis.ipynb
 │
+
 ├── Images/
 │   ├── sales_by_region.png
 │   ├── monthly_sales.png
 │   ├── top_products.png
 │   └── customer_analysis.png
 │
+
 ├── Report/
 │   └── Business_Insights.pdf
 │
+
 ├── requirements.txt
 │
+
 └── README.md
 
 🚀 Skills Demonstrated
@@ -179,7 +186,11 @@ Dayo Rex Afariogun
 Data Analyst with hands-on experience in Python, SQL, Microsoft Power BI, Microsoft Excel, financial and business intelligence reporting. Passionate about transforming raw data into actionable insights that support strategic business decisions.
 
 Connect with Me
+
 LinkedIn: 
+
 GitHub: https://github.com/dayo-data-analyst
+
 Email: dayorex7@gmail.com
+
 ⭐ If you found this project useful or interesting, feel free to star the repository or connect with me on LinkedIn.
