@@ -21,6 +21,7 @@ Who are the top-performing customers?
 Which product categories are most profitable?
 How do sales vary over time?
 What insights can help improve business performance?
+
 📂 Dataset
 
 The dataset contains historical Superstore sales transactions, including customer, product, location, and financial information.
@@ -48,6 +49,7 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
+
 🔍 Project Workflow
 1. Data Import
 Imported dataset into Python using Pandas.
@@ -90,6 +92,7 @@ Profit Analysis
 Discount Analysis
 Customer Segment Analysis
 Shipping Performance
+
 📈 Key Insights
 Sales Performance
 Identified the highest-performing products based on total revenue.
@@ -106,6 +109,7 @@ Identified products with strong sales but low profitability.
 Discount Analysis
 Examined how discounts influence sales volume and profitability.
 Highlighted opportunities to optimize pricing strategies.
+
 💡 Business Recommendations
 Increase inventory for top-selling products to reduce stock shortages.
 Focus marketing efforts on high-performing regions and customer segments.
@@ -113,6 +117,7 @@ Review discount strategies on low-profit products.
 Promote high-margin products through targeted campaigns.
 Develop customer loyalty initiatives for repeat buyers.
 Monitor underperforming products and regions to improve overall profitability.
+
 📁 Repository Structure
 Superstore-Sales-Analysis-Python/
 │
@@ -134,6 +139,7 @@ Superstore-Sales-Analysis-Python/
 ├── requirements.txt
 │
 └── README.md
+
 🚀 Skills Demonstrated
 Data Cleaning
 Exploratory Data Analysis (EDA)
@@ -150,12 +156,22 @@ Matplotlib
 Seaborn
 Business Reporting
 
+📸 Project Preview
+Include screenshots of:
+•	Sales Dashboard 
+•	Regional Sales Charts 
+•	Customer Analysis 
+•	Product Performance Charts 
+•	Profit Analysis 
+________________________________________
+
 📈 Future Enhancements
 Build an interactive dashboard using Power BI.
 Develop sales forecasting models using machine learning.
 Perform customer segmentation using clustering techniques.
 Create predictive models to estimate future sales.
 Deploy the analysis as an interactive web application using Streamlit.
+
 👨‍💻 About Me
 
 Dayo Rex Afariogun
