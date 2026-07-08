@@ -216,17 +216,18 @@ Superstore-Sales-Analysis-Python/
 │
 
 ├── Images/
+    
     ├── Reading_Dataset.png
     
     ├── Screenshot_Dataset_In_Python.png
     
-│   ├── Top_States_Sales.png
+    ├── Top_States_Sales.png
 
-│   ├── Sales_By_Region.png
+    ├── Sales_By_Region.png
 
-│   ├── Correlation_Matrix.png
+    ├── Correlation_Matrix.png
 
-│   └── Sales_Profit_by_City.png
+    └── Sales_Profit_by_City.png
 │
 
 ├── Report/
