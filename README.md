@@ -164,15 +164,6 @@ The project addresses key commercial questions such as:
 
 ---
 
-<img width="1036" height="715" alt="Sales_Profit_by_City" src="https://github.com/user-attachments/assets/a1468330-db48-4469-8ac2-e3fc51c775f7" />
-
-<img width="928" height="986" alt="Sales_By_Region" src="https://github.com/user-attachments/assets/d0f68fb0-3a4f-41c3-a44d-8094367ca49c" />
-
-<img width="953" height="738" alt="Top_States_Sales" src="https://github.com/user-attachments/assets/7b516754-16fd-4ca8-97ee-478453849822" />
-
-<img width="984" height="670" alt="Correlation_Matrix" src="https://github.com/user-attachments/assets/40dfe10b-ba67-4faf-904a-8157e7615d9b" />
-
-
 # 🔍 Key Insights
 
 ## 📈 Product Performance
@@ -195,6 +186,8 @@ Several products generate significant revenue while delivering relatively low pr
 
 Revenue growth should always be evaluated alongside profitability to maximise shareholder value.
 
+<img width="1036" height="715" alt="Sales_Profit_by_City" src="https://github.com/user-attachments/assets/a1468330-db48-4469-8ac2-e3fc51c775f7" />
+
 ---
 
 ## 🌍 Regional Performance
@@ -209,6 +202,8 @@ Regional analysis supports:
 - Market expansion decisions
 - Regional sales planning
 - Targeted marketing campaigns
+
+<img width="928" height="986" alt="Sales_By_Region" src="https://github.com/user-attachments/assets/d0f68fb0-3a4f-41c3-a44d-8094367ca49c" />
 
 ---
 
@@ -236,6 +231,8 @@ Discounts increase sales volume but may reduce overall profitability.
 Pricing decisions should balance revenue growth with sustainable profit margins.
 
 Optimising discount strategies can significantly improve operating profit.
+
+<img width="984" height="670" alt="Correlation_Matrix" src="https://github.com/user-attachments/assets/40dfe10b-ba67-4faf-904a-8157e7615d9b" />
 
 ---
 
@@ -271,6 +268,8 @@ This analysis helps commercial organisations:
 # 💰 Financial & Accounting Perspective
 
 Sales performance directly influences the financial health of a business.
+
+<img width="953" height="738" alt="Top_States_Sales" src="https://github.com/user-attachments/assets/7b516754-16fd-4ca8-97ee-478453849822" />
 
 ## Revenue Growth
 
